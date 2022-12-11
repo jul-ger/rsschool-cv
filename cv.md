@@ -14,7 +14,7 @@ I want to learn Front-End Development in RSSchool!
 * CSS;
 * JavaScript
 
-## Code examples
+## Code examples:
 ```
 function calc (a, b) {
     return function doSomething(action) {
@@ -44,13 +44,13 @@ function calc (a, b) {
 ## Work experience:
 Nothing yet…
 
-## Education
+## Education:
 * Belarusian National Technical University
   + Industrial and Civil Engineering
 * IT-Academy
   + HTML, CSS
   + JavaScript
 
-## Languages
+## Languages:
 * Russian - native speaker
 * English - A2 
