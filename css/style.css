@@ -78,6 +78,11 @@ h2 {
     background-color: rgba(245, 245, 219, .7);
     margin: 20px;
 }
+
+.projects-link a {
+    text-decoration: none;
+    color: black;
+}
  
 .footer {
     background-color: rgb(47, 57, 54);
