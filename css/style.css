@@ -9,23 +9,11 @@
     font-weight: 200;
 }
 
-/* @font-face {
-    font-family: 'Roboto';
-    src: url("../assets/fonts/RobotoRegular.ttf");
-    font-weight: 300;
-} */
-
 body {
     font-family: 'Roboto';
     min-height: 100vh;
     margin: 0; 
     padding: 0;
-    
-    /* padding: 0 50px; */
-
-    /* display: flex;
-    flex-direction: column;
-    justify-content: space-between; */
 }
 
 
@@ -59,13 +47,14 @@ body {
 
 /*main*/  
 
-.main{
-    /* padding: 20px; */
-}
-
 .container {
     display: block;
 
+}
+
+.main-photo1 > img {
+    width: 300px;
+    height: 300px;
 }
 
 .container .section:first-child {
@@ -102,5 +91,3 @@ h2 {
 .container {
     margin: 0 auto;
 }
-
-
